@@ -199,21 +199,21 @@ P = 0,54332 vatios
  
  ![image](https://user-images.githubusercontent.com/116774235/203997864-fcf2acb0-b52d-4774-8770-b9e149efc955.png)
 
-R_1= (21,7 V)/(65,8 mA)
+R1= (21,7 V)/(65,8 mA)
 
-R_1=0,33 kΩ
+R1=0,33 kΩ
 
-R_2= (14,5 V)/(65,8 mA)
+R2= (14,5 V)/(65,8 mA)
 
-R_2= 0,22 kΩ
+R2= 0,22 kΩ
 
-R_3= (6,58 V)/(65,8 mA)
+R3= (6,58 V)/(65,8 mA)
 
-R_3= 0,1 kΩ
+R3= 0,1 kΩ
 
-R_4= (30,9 V)/(65,8 mA)
+R4= (30,9 V)/(65,8 mA)
 
-R_4=0,47 kΩ
+R4=0,47 kΩ
 
 
   **25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.**
@@ -223,19 +223,19 @@ R_4=0,47 kΩ
 
 **a) ¿Cuál es la resistencia de R4?**
 
-7,84 mA= (12 V)/(220 Ω+470 Ω+510 Ω+R_4)
+7,84 mA= (12 V)/(220 Ω+470 Ω+510 Ω+R4)
 
-7,84 mA= (12 V)/(0,220 kΩ+0,470 kΩ+0,510 kΩ+R_4)
+7,84 mA= (12 V)/(0,220 kΩ+0,470 kΩ+0,510 kΩ+R4)
 
-7,84 mA= (12 V)/(1,2 kΩ+ R_4 )
+7,84 mA= (12 V)/(1,2 kΩ+ R4 )
 
-7,84 mA*(1,2 kΩ+ R_4)= 12V
+7,84 mA*(1,2 kΩ+ R4)= 12V
 
-(1,2 kΩ+ R_4 )= (12 V)/(7,84 mA)
+(1,2 kΩ+ R4 )= (12 V)/(7,84 mA)
 
-(R_4)= (12 V)/(7,84 mA)-1,2 kΩ
+(R4)= (12 V)/(7,84 mA)-1,2 kΩ
 
-R_4=0,33 kΩ
+R4=0,33 kΩ
 
 **b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?**
 
@@ -247,13 +247,13 @@ I=9,16mA
 
 **En C**
 
-Y_0= (12 V)/((0.510+0.330 ) kΩ)
+Y0= (12 V)/((0.510+0.330 ) kΩ)
 
 I=14,28mA
 
 **Final**
 
-Y_0= (12 V)/((0.330 ) kΩ)
+Y0= (12 V)/((0.330 ) kΩ)
 
 I=36,36mA
 
@@ -264,11 +264,11 @@ No, ya que 1/4 de A es menos que la corriente original por lo tanto el fusible p
 **27. Ayuda en serie es un término utilizado en ocasiones para describir
 fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?**
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
-V_T=5 V + 9 V
+VT=5 V + 9 V
 
-V_T=14 V
+VT=14 V
 
 **29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.**
 
@@ -277,67 +277,67 @@ V_T=14 V
 
 **a)**
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
-V_T=10 V+5 V+8 V
+VT=10 V+5 V+8 V
 
-V_T=23 V
+VT=23 V
 
 **b)**
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
-V_T=10 V+50 V-25 V
+VT=10 V+50 V-25 V
 
-V_T=35 V
+VT=35 V
 
 **c)**
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
-V_T=8 V-8 V
+VT=8 V-8 V
 
-V_T=0 V
+VT=0 V
 
 **31. Cinco resistores están dispuestos en serie con una fuente de 20 V.
 Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
-20 V=1,5 V+5,5 V+3 V+6V+V_5
+20 V=1,5 V+5,5 V+3 V+6V+V5
 
-V_5=20 V-1,5 V-5,5 V-3 V-6V
+V5=20 V-1,5 V-5,5 V-3 V-6V
 
-V_5=4V
+V5=4V
 
 **33. En el circuito de la figura 5-81, determine la resistencia de R4.**
 
 ![image](https://user-images.githubusercontent.com/116774235/203998098-59ace1ae-4d5b-4987-917b-17cd544ab374.png)
 
 
-V_T=V_1± V_2±V_3±⋯ ±V_n
+VT=V1± V2±V3±⋯ ±Vn
 
 V_s=11,2 V+5,4 V+0,94 V+4,4 V
 
 V_s=21,94 V
 
-V_x=V_s/R_T *R_4
+V_x=V_s/RT *R4
 
-4,4 V=(21,94 V)/(56 Ω+27 Ω+4,7 Ω+R_4 )*R_4
+4,4 V=(21,94 V)/(56 Ω+27 Ω+4,7 Ω+R4 )*R4
 
-(56 Ω+27 Ω+4,7 Ω+R_4)/R_4 = (21,94 V)/(4,4 V)
+(56 Ω+27 Ω+4,7 Ω+R4)/R4 = (21,94 V)/(4,4 V)
 
-(87,7 Ω+R_4)/R_4 = 4,99 V
+(87,7 Ω+R4)/R4 = 4,99 V
 
-87,7 Ω+R_4=4,99 V* R_4
+87,7 Ω+R4=4,99 V* R4
 
-87,7 Ω=4,99 V* R_4-R_4
+87,7 Ω=4,99 V* R4-R4
 
-87,7 Ω= R_4*(4,99 V-1)
+87,7 Ω= R4*(4,99 V-1)
 
-R_4=87,7/3,99 Ω
+R4=87,7/3,99 Ω
 
-R_4=21,98 Ω
+R4=21,98 Ω
 
 **35. Determine el voltaje a través de R5 para cada una de las posiciones del
 interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3,35 mA; B, 3,73 mA; C, 4,50 mA; D, 6,00 mA.**
@@ -345,43 +345,43 @@ interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 
 ![image](https://user-images.githubusercontent.com/116774235/203998170-73a515c4-87a2-4231-ab92-618f1978a176.png)
 
 
-I=V_s/R_T
+I=Vs/RT
 
-I =((18 V))/((1,8 kΩ+1 kΩ+0,820 kΩ+0,560 kΩ+R_5 )I*(1,8 kΩ+1 kΩ+0,820 kΩ+0,560 kΩ+R_5 ) )
+I =((18 V))/((1,8 kΩ+1 kΩ+0,820 kΩ+0,560 kΩ+R5 )I*(1,8 kΩ+1 kΩ+0,820 kΩ+0,560 kΩ+R5 ) )
 
 I=18 V (1,8 kΩ +1 kΩ+0,820 kΩ+0,560 kΩ+R_5 )=(18 V)/I
 
-(1,8 Ωk+1 kΩ+0,820 kΩ+0,560 kΩ+R_5 )=(18 V)/(3,35 mA)
+(1,8 Ωk+1 kΩ+0,820 kΩ+0,560 kΩ+R5 )=(18 V)/(3,35 mA)
 
-4,18 kΩ+ R_5=(18 V)/(3,35 mA)
+4,18 kΩ+ R5=(18 V)/(3,35 mA)
 
-R_5=(18 V)/(3,35 mA)-4,18 kΩ
+R5=(18 V)/(3,35 mA)-4,18 kΩ
 
-R_5=1,20 kΩ
+R5=1,20 kΩ
 
 **A) Yo = 3,35 mA**
 
-V_x= 3,35mA*(1,20 kΩ)
+Vx= 3,35mA*(1,20 kΩ)
 
-V_x= 4,0 V
+Vx= 4,0 V
 
 **B) 3,73 mA**
 
-V_x= 3,73mA*(1,20 kΩ)
+Vx= 3,73mA*(1,20 kΩ)
 
-V_x= 4,5 V
+Vx= 4,5 V
 
 **C) 4,50mA**
 
-V_x= 4,50 mA*(1,20 kΩ)
+Vx= 4,50 mA*(1,20 kΩ)
 
-V_x= 5,4 V
+Vx= 5,4 V
 
 **D) 6,00 mA**
 
-V_x= 6 mA*(1,20 kΩ)
+Vx= 6 mA*(1,20 kΩ)
 
-V_x= 7,2 V
+Vx= 7,2 V
 
 **37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del
 voltaje total aparece a través de una resistencia de 27 Ω que forma parte de la resistencia total en serie?**
@@ -524,9 +524,9 @@ R=4,8/2,14
 
 R2=2,24
 
-21,5=〖(2,14)〗^2 x R3
+21,5=(2,14)^2 x R3
 
-R3=21,5/〖(2,14)〗^2
+R3=21,5/(2,14)^2
 
 R3=4,69
 
@@ -716,23 +716,23 @@ La corriente que pasa a través de un resistor de 220 ohmios es de 11.4 mA
 
 **a) 560 Ω y 1000 Ω**
 
-R_T=(R_1×R_2)/(R_1+R_2 )
+R_T=(R1×R2)/(R1+R2 )
 
 R_T= (560 Ω) (1000 Ω) / 560 Ω + 1000 Ω = 359 Ω
 
 **b) 47 Ω y 56 Ω**
 
-1/R_T =1/R_1 +1/R_2 +1/R_3 +⋯+1/R_n
+1/RT =1/R1 +1/R2 +1/R3 +⋯+1/Rn
 
-R_T= (47 Ω) (56 Ω) / 47 Ω + 56 Ω= 25,6 Ω
+RT= (47 Ω) (56 Ω) / 47 Ω + 56 Ω= 25,6 Ω
 
 **c) 1,5 kΩ,2,2 kΩ,10 kΩ**
 
-R_T= 1/1,5 kΩ + 1/2,2 kΩ + 1/10 kΩ
+RT= 1/1,5 kΩ + 1/2,2 kΩ + 1/10 kΩ
 
-R_T= 1,22 kΩ
+RT= 1,22 kΩ
 
-R_T= 1/1,22 kΩ
+RT= 1/1,22 kΩ
 
 R_T= 0,819 kΩ
 
@@ -940,7 +940,7 @@ para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrie
 
 **a) RT=(1,0)(2,2)/1,0+2,2 = 0,6875**
 
-PT= 〖TI〗^2×RT= 〖(10)〗^2×(0,6875) = 68,75
+PT= (TI)^2×RT= (10)^2×(0,6875) = 68,75
 
 V= TI×RT= (10)(0.6875) = 6.875
 
