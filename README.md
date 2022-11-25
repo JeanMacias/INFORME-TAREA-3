@@ -629,6 +629,8 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 
 # **CAPÍTULO 6**
 
+*EJERCICIOS IMPARES
+
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre los terminales de una batería.**
 
 ![imagenes lab 3 fce_page-0001 imagen 6](https://user-images.githubusercontent.com/116774235/204013908-380c6264-09f2-4b82-ba25-07ad2ff85600.jpg)
