@@ -33,11 +33,11 @@ Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en ci
  
  ![image](https://user-images.githubusercontent.com/116774235/203982695-487961da-caa8-4c6f-ab05-5987ae83dbe9.png)
  
-a)
+**a)**
 
-b)
+**b)**
 
-c)
+**c)**
 
 
   **3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68**
@@ -77,27 +77,31 @@ Puesto que es circuito de la imagen se encuentra en serie, se deduce que cada mi
   ![image](https://user-images.githubusercontent.com/116774235/203989218-61ceddd6-0940-4c33-bff6-8e6aee491658.png)
 
 
-a) 560Ω Y 1000Ω
+**a) 560Ω Y 1000Ω**
 
 
 RT =  560Ω + 1000Ω
+
 RT = 1560Ω
 
-b) 47Ω Y 56Ω
+**b) 47Ω Y 56Ω**
 
 
 RT = 47Ω + 56Ω
+
 RT = 103Ω
 
-c) 1.5KΩ, 2.2KΩ Y 10KΩ
+**c) 1.5KΩ, 2.2KΩ Y 10KΩ**
 
 
 RT = 1.5KΩ + 2.2KΩ + 10KΩ
+
 RT = 13.7KΩ
 
-d) 1.0MΩ, 470KΩ, 1KΩ Y 2,2MΩ
+**d) 1.0MΩ, 470KΩ, 1KΩ Y 2,2MΩ**
 
 RT = 1MΩ + 0.470MΩ + 0.001MΩ + 2.2MΩ
+
 RT = 3.671MΩ
 
   **13. ¿Cuál es la resistencia total de doce resistores de 5.6kΩ dispuestos en serie?**
@@ -105,6 +109,7 @@ RT = 3.671MΩ
 Puesto que todos los resistores tienen el mismo valor de resistencia, simplemente se procede a multiplicar el valor de la resistencia por el número de resistores:
 
 RT = 5.6KΩ * 12
+
 RT = 67.2KΩ
 
   **15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?**
@@ -117,7 +122,9 @@ RT = R1 + R2 + R3 + R4 + R5
 Si despejamos R5 nos queda:
 
 R5 = RT - R1 - R2 - R3 - R4
+
 R5 = 17.4KΩ - 5.6KΩ - 1KΩ - 2.2KΩ - 4.7KΩ
+
 R5 = 3.9KΩ
 
   **17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.**
@@ -125,35 +132,42 @@ R5 = 3.9KΩ
 ![image](https://user-images.githubusercontent.com/116774235/203989337-185d88c6-b931-46d2-81d7-78d7287efdcc.png)
 
 RT = 1KΩ + 5.6KΩ + 2.2KΩ + 0.0047KΩ + 0.01KΩ + 0.012KΩ + 0.001KΩ + 1000KΩ + 560KΩ + 5600KΩ + 680KΩ + 10000KΩ
+
 RT = 17 848KΩ
+
 RT = 17.8MΩ
 
   **19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?**
 
 ![image](https://user-images.githubusercontent.com/116774235/203990460-0dbc75c1-b652-4a27-8d57-b8b6bbd809b0.png)
 
-a) RT = 2.2KΩ + 5.6KΩ + 1KΩ
+**a) RT = 2.2KΩ + 5.6KΩ + 1KΩ**
 
 RT = 8.8KΩ
 
 Procedemos a calcular la corriente:
 
 I = V / R
-I = 5.5 V / 8.8kΩ
-i = 0.625 mA
 
-b) RT = 1MΩ + 2.2MΩ + 0.56MΩ
+I = 5.5 V / 8.8kΩ
+
+I = 0.625 mA
+
+**b) RT = 1MΩ + 2.2MΩ + 0.56MΩ**
+
 RT = 3.76MΩ
 
 Procedemos a calcular la corriente:
 
 I = V / R
+
 I = 16 V / 3.76MΩ
+
 I = 4.26 μA
 
   **21. Se conectan tres resistores de 470Ω en serie con una fuente de 48 V.**
 
-a) ¿Cuál es la corriente en el circuito?
+**a) ¿Cuál es la corriente en el circuito?**
 
 Valor de la resistencia: R=3*470 Ω=1410 
 
@@ -165,7 +179,7 @@ I = 48 V / 1410 Ω
 
 I= 0,034 A
 
-b) ¿Cuál es el voltaje a través de cada resistor?
+**b) ¿Cuál es el voltaje a través de cada resistor?**
 
 Vx = Vs / (RT * Rx)
 
@@ -173,11 +187,11 @@ Vx = 48 V / (1410 Ω) * 470 Ω
 
 Vx = 16 V
 
-c) ¿Cuál es el valor nominal de potencia de los resistores?
+**c) ¿Cuál es el valor nominal de potencia de los resistores?**
 
 P = I^2 * R
 
-P= (0.034 A)^2 * 470 Ω
+P = (0.034 A)^2 * 470 Ω
 
 P = 0,54332 vatios
 
@@ -185,7 +199,8 @@ P = 0,54332 vatios
   **25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.**
 image
 
-a) ¿Cuál es la resistencia de R4?
+**a) ¿Cuál es la resistencia de R4?**
+
 7,84 mA= (12 V)/(220 Ω+470 Ω+510 Ω+R_4)
 
 7,84 mA= (12 V)/(0,220 kΩ+0,470 kΩ+0,510 kΩ+R_4)
@@ -200,26 +215,28 @@ a) ¿Cuál es la resistencia de R4?
 
 R_4=0,33 kΩ
 
-b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
-En B
+**b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?**
+
+**En B**
 
 I= (12 V)/((0,470+0,510+0,330 ) kΩ)
 
 I=9,16mA
 
-En C
+**En C**
 
 Y_0= (12 V)/((0.510+0.330 ) kΩ)
 
 I=14,28mA
 
-Final
+**Final**
 
 Y_0= (12 V)/((0.330 ) kΩ)
 
 I=36,36mA
 
-c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+**c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?**
+
 No, ya que 1/4 de A es menos que la corriente original por lo tanto el fusible puede aguantar la corriente.
 
 **27. Ayuda en serie es un término utilizado en ocasiones para describir
@@ -233,7 +250,7 @@ V_T=14 V
 
 **29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.**
 
-a)
+**a)**
 
 V_T=V_1± V_2±V_3±⋯ ±V_n
 
@@ -241,7 +258,7 @@ V_T=10 V+5 V+8 V
 
 V_T=23 V
 
-b)
+**b)**
 
 V_T=V_1± V_2±V_3±⋯ ±V_n
 
@@ -249,7 +266,7 @@ V_T=10 V+50 V-25 V
 
 V_T=35 V
 
-C)
+**c)**
 
 V_T=V_1± V_2±V_3±⋯ ±V_n
 
@@ -280,9 +297,9 @@ V_x=V_s/R_T *R_4
 
 4,4 V=(21,94 V)/(56 Ω+27 Ω+4,7 Ω+R_4 )*R_4
 
-(56 Ω+27 Ω+4,7 Ω+R_4)/R_4 =(21,94 V)/(4,4 V)
+(56 Ω+27 Ω+4,7 Ω+R_4)/R_4 = (21,94 V)/(4,4 V)
 
-(87,7 Ω+R_4)/R_4 =4,99 V
+(87,7 Ω+R_4)/R_4 = 4,99 V
 
 87,7 Ω+R_4=4,99 V* R_4
 
@@ -312,22 +329,25 @@ R_5=(18 V)/(3,35 mA)-4,18 kΩ
 
 R_5=1,20 kΩ
 
-A) Yo = 3,35 mA
+**A) Yo = 3,35 mA**
+
 V_x= 3,35mA*(1,20 kΩ)
 
 V_x= 4,0 V
 
-B) 3,73 mA
+**B) 3,73 mA**
+
 V_x= 3,73mA*(1,20 kΩ)
 
 V_x= 4,5 V
 
-C) 4,50mA
+**C) 4,50mA**
+
 V_x= 4,50 mA*(1,20 kΩ)
 
 V_x= 5,4 V
 
-D) 6,00 mA
+**D) 6,00 mA**
 
 V_x= 6 mA*(1,20 kΩ)
 
@@ -429,7 +449,6 @@ V4=17.98
 **45. Diseñe un divisor de voltaje variable para producir un voltaje de
 salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del ±1% con una fuente de 1 a 120 V. El máximo voltaje debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.**
 
-image
 
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Usar los resultados del problema 43**
 
@@ -439,9 +458,9 @@ Vs=30.86
 
 RT=17.16
 
-PT=〖Vs〗^2/RT
+PT=(Vs)^2/RT
 
-PT=〖(30.86)〗^2/17.16
+PT=(30.86)^2/17.16
 
 PT=55.49mW
 
@@ -521,11 +540,11 @@ VD = 9,34 V
 fallas ocurridas en los circuitos y qué componentes fallaron.**
 
 
-Figura a)
+**Figura a)**
 
 La Resistencia 4 está abierta.
 
-Figura b)
+**Figura b)**
 
 Existe un corto de A hacia B
 
@@ -570,15 +589,15 @@ figura 6-68 para cada posición del interruptor?**
 
 Puesto que el voltaje en un circuito en paralelo es el mismo se puede deducir el voto solo observando
 
-En la posicion A
+**En la posicion A**
 
 V1=15V,V2=0V,V3=0V,V4=15V
 
-En la posición B
+**En la posición B**
 
 V1=15V,V2=0V,V3=15V,V4=0V
 
-En la posición C
+**En la posición C**
 
 V1=15V,V2=15V,V3=0V,V4=0V
 
@@ -628,19 +647,20 @@ La corriente que pasa a través de un resistor de 220 ohmios es de 11.4 mA
 
 **15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistencias en paralelo:**
 
-a) 560 Ω y 1000 Ω
+**a) 560 Ω y 1000 Ω**
 
 R_T=(R_1×R_2)/(R_1+R_2 )
 
 R_T= (560 Ω) (1000 Ω) / 560 Ω + 1000 Ω = 359 Ω
 
-b) 47 Ω y 56 Ω
+**b) 47 Ω y 56 Ω**
 
 1/R_T =1/R_1 +1/R_2 +1/R_3 +⋯+1/R_n
 
 R_T= (47 Ω) (56 Ω) / 47 Ω + 56 Ω= 25,6 Ω
 
-c) 1,5 kΩ,2,2 kΩ,10 kΩ
+**c) 1,5 kΩ,2,2 kΩ,10 kΩ**
+
 R_T= 1/1,5 kΩ + 1/2,2 kΩ + 1/10 kΩ
 
 R_T= 1,22 kΩ
@@ -651,7 +671,8 @@ R_T= 0,819 kΩ
 
 RT= 819 Ω
 
-d) 1,0 MΩ,470 kΩ,1,0 kΩ,2,7 MΩ
+**d) 1,0 MΩ,470 kΩ,1,0 kΩ,2,7 MΩ**
+
 RT= 1/1000 kΩ + 1/470 kΩ + 1/1,0 kΩ + 1/2700 kΩ
 
 RT= 1,0034 kΩ
@@ -696,16 +717,20 @@ RT = 7,645 Ω
 
 **21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
 
-a) SW1 y SW2 abiertos
+**a) SW1 y SW2 abiertos**
+
 R= 510 kΩ
 
-b) SW1 cerrado,SW2 abierto
+**b) SW1 cerrado,SW2 abierto**
+
 R= 245 kΩ
 
-c) SW1 abierto,SW2 cerrado
+**c) SW1 abierto,SW2 cerrado**
+
 R= 510 kΩ
 
-d) SW1 y SW2 cerrados
+**d) SW1 y SW2 cerrados**
+
 R = 193 kΩ
 
 **23. Tres resistencias de 33 Ω están conectadas en paralelo con una fuente de 110 V.
@@ -789,11 +814,11 @@ Posición C: 7 mA
 
 **33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
 
-a) I1 = 6,88 µA
+**a) I1 = 6,88 µA**
 
 I2 = 3,12 µA
 
-b) I1 = 5,25 mA
+**b) I1 = 5,25 mA**
 
 I2 = 2,39mA
 
@@ -916,14 +941,18 @@ R8 abierto: R = 1,0 MΩ||1,8 MΩ||680 kΩ = 330 kΩ
 puntas si existe un corto entre las puntas 3 y 4:**
 
 
-a) 1 y 2
+**a) 1 y 2**
+
 R1-2 = (R1||R2||R3||R4||R11||R12) + (R5||R6||R7||R8||R9||R10) = 940 Ω
 
-b) 2 y 3
+**b) 2 y 3**
+
 R2-3 = R5||R6||R7||R8||R9||R10 = 518 Ω
 
-c) 2 y 4
+**c) 2 y 4**
+
 R2-4 = R5||R6||R7||R8||R9||R10 = 518 Ω
 
-d) 1 y 4
+**d) 1 y 4**
+
 R1-4 = R1||R2||R3||R4||R11||R12 = 422 Ω
