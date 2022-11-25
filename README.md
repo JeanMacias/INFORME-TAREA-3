@@ -195,9 +195,31 @@ P = (0.034 A)^2 * 470 Ω
 
 P = 0,54332 vatios
 
+ **23. ¿Cuál es el valor de cada resistencia mostrada en la figura 5-75?**
+ 
+ ![image](https://user-images.githubusercontent.com/116774235/203997864-fcf2acb0-b52d-4774-8770-b9e149efc955.png)
+
+R_1= (21,7 V)/(65,8 mA)
+
+R_1=0,33 kΩ
+
+R_2= (14,5 V)/(65,8 mA)
+
+R_2= 0,22 kΩ
+
+R_3= (6,58 V)/(65,8 mA)
+
+R_3= 0,1 kΩ
+
+R_4= (30,9 V)/(65,8 mA)
+
+R_4=0,47 kΩ
+
 
   **25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.**
-image
+  
+  ![image](https://user-images.githubusercontent.com/116774235/203997978-1315cbc6-a21b-4070-a3d0-f4eb08233e71.png)
+
 
 **a) ¿Cuál es la resistencia de R4?**
 
@@ -250,6 +272,9 @@ V_T=14 V
 
 **29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.**
 
+![image](https://user-images.githubusercontent.com/116774235/203998059-78e39987-b572-4002-941c-d360ba089941.png)
+
+
 **a)**
 
 V_T=V_1± V_2±V_3±⋯ ±V_n
@@ -287,6 +312,9 @@ V_5=4V
 
 **33. En el circuito de la figura 5-81, determine la resistencia de R4.**
 
+![image](https://user-images.githubusercontent.com/116774235/203998098-59ace1ae-4d5b-4987-917b-17cd544ab374.png)
+
+
 V_T=V_1± V_2±V_3±⋯ ±V_n
 
 V_s=11,2 V+5,4 V+0,94 V+4,4 V
@@ -313,6 +341,8 @@ R_4=21,98 Ω
 
 **35. Determine el voltaje a través de R5 para cada una de las posiciones del
 interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3,35 mA; B, 3,73 mA; C, 4,50 mA; D, 6,00 mA.**
+
+![image](https://user-images.githubusercontent.com/116774235/203998170-73a515c4-87a2-4231-ab92-618f1978a176.png)
 
 
 I=V_s/R_T
@@ -366,6 +396,9 @@ X=4,82 %
 
 **39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85 (a)**
 
+![image](https://user-images.githubusercontent.com/116774235/203998237-50a8f1d6-dce3-4c72-adc5-d0e581b73a62.png)
+
+
 RT=R1+R2+R3
 
 RT= 5.6+10+3.3
@@ -399,6 +432,8 @@ C=2,67 V
 **41. ¿Cuál es el voltaje a través de cada resistencia mostrada en la figura 5-86?
 R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.**
 
+![image](https://user-images.githubusercontent.com/116774235/203998299-c3537080-bcaf-451d-908b-99cf1c499eda.png)
+
 
 RT=R+2R+3R+4R+5R
 
@@ -421,6 +456,9 @@ V4R=(4R/15R)90V
 V4R=20V
 
 **43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
+
+![image](https://user-images.githubusercontent.com/116774235/203998338-2bdf1dd7-cbb8-4782-8145-131eb06a6bc5.png)
+
 
 TR=5,6+1+0,56+10
 
@@ -452,6 +490,9 @@ salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del �
 
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Usar los resultados del problema 43**
 
+![image](https://user-images.githubusercontent.com/116774235/203998454-e152b103-d113-4d03-bd01-1dfcef0f55c0.png)
+
+
 Datos del ejercicio 43:
 
 Vs=30.86
@@ -465,6 +506,9 @@ PT=(30.86)^2/17.16
 PT=55.49mW
 
 **49. Encuentro RT en la figura 5-89.**
+
+![image](https://user-images.githubusercontent.com/116774235/203998525-823d8c30-d13f-406f-8bcc-3da87954cb06.png)
+
 
 R1=5,6
 
@@ -493,6 +537,9 @@ RT=5.6+2.24+4.69
 RT=12.5 Mohmio
 
 **51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra**
+
+![image](https://user-images.githubusercontent.com/116774235/203998573-4dfa1993-fa74-4895-8e2a-09de2caa5720.png)
+
 
 TR=13,2
 
@@ -528,6 +575,9 @@ VD=7,59V
 
 **53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.**
 
+![image](https://user-images.githubusercontent.com/116774235/203998618-444d59e9-29ca-4ad9-bc3a-42564d4ff564.png)
+
+
 VA = 14,82 V
 
 VB = 12,97 V
@@ -538,6 +588,9 @@ VD = 9,34 V
 
 **55. Observe los medidores de la figura 5-92 y determine los tipos de
 fallas ocurridas en los circuitos y qué componentes fallaron.**
+
+![image](https://user-images.githubusercontent.com/116774235/203998690-02e8b336-1e8e-44f2-b9bc-0a04528d5bac.png)
+
 
 
 **Figura a)**
@@ -551,6 +604,9 @@ Existe un corto de A hacia B
 **57. La tabla 5-1 muestra los resultados de detección de resistencia realizados en
 la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.**
 
+![image](https://user-images.githubusercontent.com/116774235/203998735-91f1d1c5-fa3d-4c96-bca2-717356d6f7ef.png)
+
+![image](https://user-images.githubusercontent.com/116774235/203998746-8d21ae71-c7a5-4ba2-8568-8a0470154e28.png)
 
 
 
@@ -558,6 +614,8 @@ Basándonos en la figura 5-93 se tiene como respuesta que los resultados de medi
 
 **59. Al examinar la tarjeta de circuito impreso de la figura 5-93,
 se miden 17,83 KΩ entre las puntas 1 y 2. Asimismo, 13,6 KΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo**
+
+![image](https://user-images.githubusercontent.com/116774235/203998936-88e9e635-4970-4e1a-ad5f-bd95207dd510.png)
 
 
 
@@ -572,6 +630,8 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 **3. Identifique los grupos de resistencias que están en paralelo en la tarjeta de circuito
 impreso de doble cara mostrada en la figura 6-66.**
 
+![image](https://user-images.githubusercontent.com/116774235/203999047-0ee923d2-3d57-4664-80f5-9d35b46aae9d.png)
+
 
 R1, R2, R5, R9, R10 y R12 están en paralelo.
 
@@ -581,10 +641,15 @@ R3 y R11 están en paralelo.
 
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
+![image](https://user-images.githubusercontent.com/116774235/203999090-2dbd1a7b-9172-4880-8a7b-0c664a4b79b2.png)
+
+
 Puesto que el voltaje en un circuito en paralelo es el mismo, Cada medidor lee 100V
 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistencia incluida en la
 figura 6-68 para cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/116774235/203999132-f47ab43c-345e-457f-b7c5-a191b15bf297.png)
 
 
 Puesto que el voltaje en un circuito en paralelo es el mismo se puede deducir el voto solo observando
@@ -613,6 +678,8 @@ IE=250+300+800
 IE=1350mA
 
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
+
+![image](https://user-images.githubusercontent.com/116774235/203999244-c2b1a238-7771-4fc7-b835-44317bf74fe8.png)
 
 IE=I1+I2+I3+I4
 
@@ -717,6 +784,9 @@ RT = 7,645 Ω
 
 **21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
 
+![image](https://user-images.githubusercontent.com/116774235/203999358-7ff38437-5495-4437-9141-f132a6cabe6f.png)
+
+
 **a) SW1 y SW2 abiertos**
 
 R= 510 kΩ
@@ -756,6 +826,8 @@ Cuando un foco se funde, los demás focos permanecerán encendidos.
 
 **27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?**
 
+![image](https://user-images.githubusercontent.com/116774235/203999518-2bdac1eb-8f53-40af-8860-551d7179e813.png)
+
 I1= I2 + I3
 
 I2 =15V/68Ω
@@ -779,6 +851,8 @@ R3 ≥68Ω/19V (15V)
 R3 ≥ 53,68 Ω
 
 **29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
+
+![image](https://user-images.githubusercontent.com/116774235/203999556-02b46613-3e36-48f5-9533-5e987df6ffcb.png)
 
 TI = 250 mA + 50 mA
 
@@ -806,6 +880,8 @@ R2 = 600 Ω
 
 **31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.**
 
+![image](https://user-images.githubusercontent.com/116774235/203999596-2e0c7ec6-f4f3-4314-a4d2-0e2034b1ef14.png)
+
 Posición A: 2,25 mA
 
 Posición B: 4,75 mA
@@ -813,6 +889,8 @@ Posición B: 4,75 mA
 Posición C: 7 mA
 
 **33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
+
+![image](https://user-images.githubusercontent.com/116774235/203999634-82ee6695-c93e-4873-8d4b-9ddd38b28f51.png)
 
 **a) I1 = 6,88 µA**
 
@@ -827,6 +905,8 @@ I3 = 1,59mA
 I4 = 772 µA
 
 **35. Determine todos los valores de resistencia en la figura 6-83. TR =773 Ω.**
+
+![image](https://user-images.githubusercontent.com/116774235/203999675-f6dec73f-97ca-4f6a-b912-e41c0c2ab7e5.png)
 
 R1 = 12,0047/3,64
 
@@ -854,6 +934,9 @@ para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrie
 5 µA
 
 **39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
+
+![image](https://user-images.githubusercontent.com/116774235/203999720-ca99e4d1-180b-4ed1-90cf-2cb95638806a.png)
+
 
 **a) RT=(1,0)(2,2)/1,0+2,2 = 0,6875**
 
@@ -885,6 +968,8 @@ PT= 31,83 + 14,46 + 9,64 + 4,68 = 60,61 mW
 
 **41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.**
 
+![image](https://user-images.githubusercontent.com/116774235/203999762-4e946cb0-0369-49d0-a83b-b79b6e296b1f.png)
+
 P1= 1,25W
 
 I2 = 75mA
@@ -906,11 +991,15 @@ IT=3,41 A
 
 **45. ¿Qué está mal con el circuito de la figura 6-86?**
 
+![image](https://user-images.githubusercontent.com/116774235/203999806-2d25943e-b3b5-444f-9232-1cabf5f39ba5.png)
+
+
 El resistor de 8.2 kΩ está abierto.
 
 **47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87
 y asegúrese de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describe el procedimiento en un formato detallado paso a paso.**
 
+![image](https://user-images.githubusercontent.com/116774235/203999849-4a5776e2-c7b5-4903-a17a-e1bfbb884f34.png)
 
 Clavijas 1-2
 Lectura correcta: R = 1,0 kΩ||3,3 kΩ = 767 Ω
@@ -940,6 +1029,7 @@ R8 abierto: R = 1,0 MΩ||1,8 MΩ||680 kΩ = 330 kΩ
 **49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes
 puntas si existe un corto entre las puntas 3 y 4:**
 
+![image](https://user-images.githubusercontent.com/116774235/203999888-8724eb3d-8f5b-46d3-bcaf-59e9a7c3fc4a.png)
 
 **a) 1 y 2**
 
