@@ -1056,3 +1056,15 @@ R1-4 = R1||R2||R3||R4||R11||R12 = 422 Ω
 # **VIDEO**
 
 https://youtu.be/967ZfUdDjYE
+
+# **CONCLUSIONES**
+
+* En un circuito en serie,la intensidad de la corriente es igual antes y despues de cada resitencia sin importar su valor.
+
+* En un circuito paralelo, la resistencia total, es menor que el valor de la resistencia más pequeña del circuito y es una forma muy efectiva para saber si nuestros cálculos estan bien realizados.
+
+# **BIBLIOGRAFÍA**
+
+* FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
+
+* Circuitos mixtos electricos calculo. (n.d.). Retrieved November 26, 2021, from https://www.areatecnologia.com/Calculo-circuitos-mixtos.htm
