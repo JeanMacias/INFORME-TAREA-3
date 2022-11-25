@@ -35,10 +35,15 @@ Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en ci
  
 **a)**
 
+![imagenes lab 3 fce_page-0001 imagen 1](https://user-images.githubusercontent.com/116774235/204013229-a1d62d44-b51a-4d0e-8dbb-80dbeaebe2b3.jpg)
+
 **b)**
+
+![imagenes lab 3 fce_page-0001 imagen 2](https://user-images.githubusercontent.com/116774235/204013291-4b9ae76e-efca-42a3-b67e-693f275b2186.jpg)
 
 **c)**
 
+![imagenes lab 3 fce_page-0001 imagen 3](https://user-images.githubusercontent.com/116774235/204013347-eb20a7b4-8bf3-4a71-9016-d41fb4f75c76.jpg)
 
   **3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68**
 
@@ -69,8 +74,8 @@ Grupo en serie N° 3: R3, R5, R9 y R12
 Puesto que es circuito de la imagen se encuentra en serie, se deduce que cada miliamperímetro indica 5mA ya que la corriente se mantiene constante en cada punto del circuito.
 
   **9. Con baterias de 1.5V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.**
-
-(imagen)
+  
+![imagenes lab 3 fce_page-0001 imagen 4](https://user-images.githubusercontent.com/116774235/204013444-43f2e916-6b61-4cf1-94ea-97c108e2582a.jpg)
 
   **11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
   
@@ -487,6 +492,7 @@ V4=17.98
 **45. Diseñe un divisor de voltaje variable para producir un voltaje de
 salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del ±1% con una fuente de 1 a 120 V. El máximo voltaje debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.**
 
+![imagenes lab 3 fce_page-0001 imagen 5](https://user-images.githubusercontent.com/116774235/204013776-2b3a07e0-b60e-4e9c-a834-8402cdee1146.jpg)
 
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Usar los resultados del problema 43**
 
@@ -625,7 +631,7 @@ Si indica un problema, puesto que existe un corto entre la clavija 4 y el lado s
 
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre los terminales de una batería.**
 
-
+![imagenes lab 3 fce_page-0001 imagen 6](https://user-images.githubusercontent.com/116774235/204013908-380c6264-09f2-4b82-ba25-07ad2ff85600.jpg)
 
 **3. Identifique los grupos de resistencias que están en paralelo en la tarjeta de circuito
 impreso de doble cara mostrada en la figura 6-66.**
