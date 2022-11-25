@@ -27,7 +27,7 @@ Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en ci
 
 # **CAPÍTULO 5**
 
-*EJERCICIOS IMPARES*
+*EJERCICIOS IMPARES
 
   **1. Conecte en serie cada juego de resistores mostrado en figura 5-67 entre los puntos A y B**
  
